@@ -8,4 +8,4 @@
 - 📫 How to reach me: hebachokri7@gmail.com<br/>
 
 [![hichokri's 42 stats](https://badge.mediaplus.ma/binary/hichokri)](https://github.com/oakoudad/badge42)
-[![Hiba Chokri's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hiba Chokri)](https://github.com/anuraghazra/github-readme-stats)
+[![Hiba Chokri's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
