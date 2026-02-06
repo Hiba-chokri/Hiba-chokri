@@ -17,7 +17,7 @@
 
 - 🎓 Currently studying at **42 The Network (1337)** - A peer-to-peer learning institution
 - 💼 Passionate about **Data Science**, **AI**, and **Full Stack Development**
-- ✍️ Regular contributor on [Medium](https://medium.com/@hebachokri7) writing about AI, Data Science, and Distributed Computing
+- ✍️ Contributor on [Medium](https://medium.com/@hebachokri7) writing about AI, Data Science, and Distributed Computing
 - 🌱 Constantly learning and building innovative solutions
 - 📫 Reach me at: **hebachokri7@gmail.com**
 
@@ -95,7 +95,7 @@
 - **[Big Data Solutions]** - Distributed data processing with Spark and Hadoop
 - **[Scalable Systems]** - High-performance computing implementations
 
-> 📂 **Explore all my projects:** [github.com/hiba-chokri](https://github.com/Hiba-chokri)
+> 📂 **Explore all my projects:** [github.com/Hiba-chokri](https://github.com/Hiba-chokri)
 
 ---
 
