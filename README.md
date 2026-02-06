@@ -84,9 +84,7 @@
 
 ### 🤖 AI & Data Science
 - **[Machine Learning Projects]** - End-to-end ML pipelines with real-world datasets
-- **[Deep Learning Models]** - Neural network implementations using TensorFlow and PyTorch
-- **[NLP Applications]** - Natural Language Processing solutions
-- **[Data Analysis Notebooks]** - Exploratory data analysis and visualization projects
+- **[Data Analysis]** - Exploratory data analysis and visualization projects
 
 ### 💻 Full Stack Applications
 - **[42 School Projects]** - System programming, algorithms, and software engineering projects
@@ -97,7 +95,7 @@
 - **[Big Data Solutions]** - Distributed data processing with Spark and Hadoop
 - **[Scalable Systems]** - High-performance computing implementations
 
-> 📂 **Explore all my projects:** [github.com/hiba-chokri](https://github.com/hiba-chokri)
+> 📂 **Explore all my projects:** [github.com/hiba-chokri](https://github.com/Hiba-chokri)
 
 ---
 
